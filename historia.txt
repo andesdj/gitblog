@@ -3,6 +3,5 @@ Esta es el archivo principa texto plano
 Andres Montealegre Giraldo
 
 
-Ingeniero Electrónico.
-Maestría BIG DATA
+Este archivo es totalmente diferente.
 
