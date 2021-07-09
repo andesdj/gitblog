@@ -1,6 +1,6 @@
 body
 {
-    color: #fa0000;
+    color: #333;
     text-align: center;
     font-family: "Arial";
     margin: 0 ;
@@ -20,7 +20,7 @@ body
 #container h1 {
     font-size: 22px;
     text-align:center;
-    color: #00fa00;
+    color: #2807a0;
 }
 
 #container p {
