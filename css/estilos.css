@@ -57,8 +57,17 @@ body
     margin-left:20px;
 
 }
-
 #post {
-    background-color: #f1f1f1;
-    padding:20px;
+    background-color: #fafafa;
+    padding: 0.5em;
+    border: 1px solid #eee;
+}
+
+#footer {
+    background-color:  #18f;
+    color: white;
+    text-align:center;
+    padding: 0.5em;
+    
+
 }
